@@ -12,5 +12,6 @@ int main()
 {
     printf("Hello World");
     printf("Bye");
+    printf("\nBye");
     return 0;
 }
